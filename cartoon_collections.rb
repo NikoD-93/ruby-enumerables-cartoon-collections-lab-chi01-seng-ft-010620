@@ -4,7 +4,8 @@ dwarves.each_with_index { |name , index|
  }
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(veggies)
+  
   # Your code here
 end
 
