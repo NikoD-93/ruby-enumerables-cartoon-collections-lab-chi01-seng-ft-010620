@@ -5,7 +5,9 @@ dwarves.each_with_index { |name , index|
 end
 
 def summon_captain_planet(veggies)
-  
+  veggies.map { |veggie| 
+  veggie.capitalize + "!"
+  }
   # Your code here
 end
 
